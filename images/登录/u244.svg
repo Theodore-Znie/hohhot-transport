@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="224px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="231" y1="321" x2="231" y2="361" id="LinearGradient26">
-      <stop id="Stop27" stop-color="#1bd2b4" offset="0" />
-      <stop id="Stop28" stop-color="#12ae5a" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="231" y1="321" x2="231" y2="361" id="LinearGradient41">
+      <stop id="Stop42" stop-color="#1bd2b4" offset="0" />
+      <stop id="Stop43" stop-color="#12ae5a" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -119 -321 )">
     <path d="M 119.5 341  A 19.5 19.5 0 0 1 139 321.5 L 323 321.5  A 19.5 19.5 0 0 1 342.5 341 A 19.5 19.5 0 0 1 323 360.5 L 139 360.5  A 19.5 19.5 0 0 1 119.5 341 Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 119.5 341  A 19.5 19.5 0 0 1 139 321.5 L 323 321.5  A 19.5 19.5 0 0 1 342.5 341 A 19.5 19.5 0 0 1 323 360.5 L 139 360.5  A 19.5 19.5 0 0 1 119.5 341 Z " stroke-width="1" stroke="url(#LinearGradient26)" fill="none" />
+    <path d="M 119.5 341  A 19.5 19.5 0 0 1 139 321.5 L 323 321.5  A 19.5 19.5 0 0 1 342.5 341 A 19.5 19.5 0 0 1 323 360.5 L 139 360.5  A 19.5 19.5 0 0 1 119.5 341 Z " stroke-width="1" stroke="url(#LinearGradient41)" fill="none" />
   </g>
 </svg>
